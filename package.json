@@ -1,0 +1,19 @@
+{
+  "name": "grammer-mistakes",
+  "version": "1.0.0",
+  "description": "This is a simple code for getting grammer mistakes in a file",
+  "main": "App.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alestor123/GRAMMER-MISTAKE.git"
+  },
+  "author": "Alestor Aldous",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alestor123/GRAMMER-MISTAKE/issues"
+  },
+  "homepage": "https://github.com/alestor123/GRAMMER-MISTAKE#readme"
+}
